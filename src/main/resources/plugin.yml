@@ -1,0 +1,5 @@
+name: wasmgenerator
+version: '${version}'
+main: dev.nicoxxl.wasmgenerator.WasmGenerator
+api-version: '1.20'
+load: STARTUP
